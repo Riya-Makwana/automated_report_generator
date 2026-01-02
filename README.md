@@ -56,8 +56,8 @@ python report_generator.py
 
 ---
 ## Future Enhancements
-Email automated reports using SMTP
-Generate PDF reports
+1. Email automated reports using SMTP
+2. Generate PDF reports
 
 ---
 
