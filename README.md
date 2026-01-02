@@ -1,6 +1,6 @@
 # 📊 Automated Report Generator (Python)
 
-A Python-based automation project that reads business data from CSV files, processes and validates the data, and automatically generates an Excel report. This project demonstrates **automation, data handling, and business process optimization**, making it ideal for **Software Developer / Automation Engineer** roles.
+A Python-based automation project that reads business data from CSV files, processes and validates the data, and automatically generates an Excel report. This project demonstrates **automation, data handling, and business process optimization**.
 
 ---
 
@@ -39,10 +39,10 @@ Date,Product,Quantity,Price
 ---
 ## ⚙️ Automation Workflow
 
-Read sales data from CSV file
-Validate quantity and price values
-Calculate total sales per product
-Generate Excel summary report automatically
+1. Read sales data from CSV file
+2. Validate quantity and price values
+3. Calculate total sales per product
+4. Generate Excel summary report automatically
 ---
 
 ---
